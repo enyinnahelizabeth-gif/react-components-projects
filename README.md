@@ -36,8 +36,6 @@ Watch and follow this tutorial carefully:
 
 https://www.youtube.com/watch?v=bnfhmr1v028
 
-You are expected to actively code along while watching the tutorial.
-
 ---
 
 ## Repository Setup
